@@ -1,6 +1,1 @@
-# Template
-
-## Frontend checklist
-- [ ] Code
-- [ ] Test
-- [ ] Launch
+DON'T README
