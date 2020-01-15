@@ -1,6 +1,4 @@
-# Template
-
-## Frontend checklist
+# Frontend checklist
 - [ ] Code
 - [ ] Test
 - [ ] Launch
