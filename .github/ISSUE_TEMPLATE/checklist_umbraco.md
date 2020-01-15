@@ -1,6 +1,6 @@
 ---
-name: Frontend checklist
-about: A complete checklist for all our web projects.
+name: Frontend checklist (Umbraco)
+about: Hvad skal vi altid huske når et nyt Umbraco website kodes?
 title: 'Frontend checklist'
 labels: ''
 assignees: ''
